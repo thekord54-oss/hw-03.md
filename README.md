@@ -192,7 +192,7 @@ Monitoring → Latest data
 
 Список подключенных хостов и статус доступности.
 
-![Hosts](hosts.png)
+![Hosts](screenshots/hosts.png)
 
 ---
 
@@ -200,7 +200,7 @@ Monitoring → Latest data
 
 Собираемые метрики CPU и RAM.
 
-![Latest data](latest_data.png)
+![Latest data](screenshots/latest_data.png)
 
 ---
 
@@ -208,7 +208,7 @@ Monitoring → Latest data
 
 График загрузки процессора.
 
-![CPU Graph](cpu_graph.png)
+![CPU Graph](screenshots/cpu_graph.png)
 
 ---
 
@@ -216,7 +216,7 @@ Monitoring → Latest data
 
 Главная панель мониторинга Zabbix.
 
-![Dashboard](dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
